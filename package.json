@@ -1,0 +1,26 @@
+{
+  "name": "react-apps",
+  "version": "1.0.0",
+  "description": "react pages for the cv-api front end\u001b[D\u001b[D\u001b[D\u001b[D-\u001b[C\u001b[C\u001b[C\u001b[",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Perfspec/react-apps.git"
+  },
+  "keywords": [
+    "react",
+    "cv-api"
+  ],
+  "author": "Lewis Webb, Adil Oozerally, Malcolm Lindsay, Ben Taylor, Adonay G\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[DT\u001b[3~\u001b[3~\u001b[3~\u001b, Adil O, Naveed K, Malcolm L, Ben T, Adonay G",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Perfspec/react-apps/issues"
+  },
+  "homepage": "https://github.com/Perfspec/react-apps#readme",
+  "dependencies": {
+    "create-react-app": "^2.1.1"
+  }
+}
